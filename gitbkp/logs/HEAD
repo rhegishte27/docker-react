@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 b3475ab0e8465382f20d41f7958222535549f7ab rhegishte27 <rhegishte27@gmail.com> 1556708985 +0000	commit (initial): initial commit
+b3475ab0e8465382f20d41f7958222535549f7ab dc0fe1a57ba7c7f3ec455bdcdccf56684daa9440 rhegishte27 <rhegishte27@gmail.com> 1556713193 +0000	commit: add travis file
+dc0fe1a57ba7c7f3ec455bdcdccf56684daa9440 87a8c947a48c7591e43c2bb8775674f981800d96 rhegishte27 <rhegishte27@gmail.com> 1556721238 +0000	commit: added travis deploy config
+87a8c947a48c7591e43c2bb8775674f981800d96 66a13c47163f829420ea7a1a9ba0a2f5bd688cf3 rhegishte27 <rhegishte27@gmail.com> 1556722067 +0000	commit: add expose 80
+66a13c47163f829420ea7a1a9ba0a2f5bd688cf3 66a13c47163f829420ea7a1a9ba0a2f5bd688cf3 rhegishte27 <rhegishte27@gmail.com> 1556722795 +0000	checkout: moving from master to feature
+66a13c47163f829420ea7a1a9ba0a2f5bd688cf3 74dbe137a80cc6c2474098002784294df4c2ec44 rhegishte27 <rhegishte27@gmail.com> 1556722898 +0000	commit: changed app text
+74dbe137a80cc6c2474098002784294df4c2ec44 ffbce0fb2ee5451629234c2823f8cc56b9743e68 rhegishte27 <rhegishte27@gmail.com> 1559468743 +0000	commit: added travis file1

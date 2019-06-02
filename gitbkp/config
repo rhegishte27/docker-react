@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "master"]
+[remote "github"]
+	url = git@github.com:rhegishte27/docker-react.git
+	fetch = +refs/heads/*:refs/remotes/github/*
+[remote "origin"]
+	url = git@github.com:rhegishte27/docker-react.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
